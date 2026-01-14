@@ -1,0 +1,3 @@
+{"id":"ex1","query":"What is the deductible amount for water damage?","relevant_sources":["PolicyA.pdf"],"reference_text":"water damage deductible","expected_answer":"$1,000","tags":{"domain":"insurance","topic":"coverage"}}
+{"id":"ex2","query":"Does the policy cover rental reimbursement (loss of use)?","relevant_sources":["PolicyB.pdf"],"reference_text":"rental reimbursement","expected_answer":"","tags":{"domain":"insurance","topic":"endorsement"}}
+{"id":"ex3","query":"What is the timeline for acknowledging a claim under the claims handling SOP?","relevant_sources":["Claims_SOP.docx"],"reference_text":"acknowledge a claim","expected_answer":"","tags":{"domain":"claims","topic":"operations"}}
